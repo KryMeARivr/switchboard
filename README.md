@@ -8,9 +8,9 @@ One window for every account you play. Switchboard is a free launcher that keeps
 
 Get the newest version from [Releases](https://github.com/KryMeARivr/switchboard/releases/latest).
 
-**Switchboard** (Windows 10 and 11): download `Switchboard-<version>-windows.zip`, unzip it anywhere and open `Switchboard.exe`. Java is built in. It updates itself from this page.
+**Switchboard** (Windows 10 and 11): download `Switchboard-<version>-windows.zip`, unzip it anywhere and open `Switchboard.exe`. Java is built in. It plays any Minecraft version, Vanilla or Fabric, and updates itself from this page.
 
-**HotSwap** (Fabric mod for Minecraft 26.2): download `hotswap-<version>.jar` and put it in your mods folder next to Fabric API.
+**HotSwap** (Fabric or Quilt, Minecraft 1.20.1 to 26.3): download the jar for your Minecraft version, for example `hotswap-0.1.0+mc26.3.jar` for 26.3 or `hotswap-0.1.0+mc1.20.1.jar` for 1.20.1, and put it in that version's mods folder next to Fabric API.
 
 Neither download contains any Minecraft game files. Switchboard downloads the game from Mojang's own servers, and you sign in with your own Microsoft account that owns the game.
 
