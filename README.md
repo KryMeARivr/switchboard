@@ -1,6 +1,6 @@
 # Switchboard
 
-One window for every Minecraft account you play. Switchboard keeps your accounts online, starts the game on any of them, and looks after your mods, shaders, worlds and screenshots.
+One window for every account you play. Switchboard is a free launcher that keeps your Minecraft accounts online, starts the game on any of them, and looks after your mods, shaders, worlds and screenshots.
 
 **Website:** https://switchboardmc.com
 
@@ -12,6 +12,12 @@ Get the newest version from [Releases](https://github.com/KryMeARivr/switchboard
 
 **HotSwap** (Fabric mod for Minecraft 26.2): download `hotswap-<version>.jar` and put it in your mods folder next to Fabric API.
 
-This repository only hosts the downloads. Switchboard and HotSwap are free to use but not open source: all rights reserved.
+Neither download contains any Minecraft game files. Switchboard downloads the game from Mojang's own servers, and you sign in with your own Microsoft account that owns the game.
 
-Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+## Who makes it
+
+Switchboard and HotSwap are made by KryMeARivr, who is responsible for them. They're free to use but not open source: all rights reserved. This repository only hosts the downloads.
+
+**Contact:** support@switchboardmc.com
+
+**NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
