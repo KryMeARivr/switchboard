@@ -14,6 +14,14 @@ Get the newest version from [Releases](https://github.com/KryMeARivr/switchboard
 
 Neither download contains any Minecraft game files. Switchboard downloads the game from Mojang's own servers, and you sign in with your own Microsoft account that owns the game.
 
+## Built to play fair
+
+Switchboard is for players with a few accounts of their own, not for flooding servers:
+
+- Messages and commands are sent from one account at a time. There's no way to send from every account at once.
+- At most 5 of your accounts can be online on any one server at the same time.
+- Always follow each server's own rules about alts.
+
 ## Who makes it
 
 Switchboard and HotSwap are made by KryMeARivr, who is responsible for them. They're free to use but not open source: all rights reserved. This repository only hosts the downloads.
